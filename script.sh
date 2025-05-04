@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # دایرکتوری هدف
-TARGET_DIR="/c/Users/moham/Documents/GitHub/a"
+TARGET_DIR="/c/Users/moham/Documents/GitHub/kamalla"
 
 # لود متغیر محیطی از فایل .lec_counter، اگر تنظیم نشده باشد
 if [ -z "$LEC_COUNTER" ] && [ -f "$TARGET_DIR/.lec_counter" ]; then
